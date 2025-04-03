@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\PointsObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\PointsObject.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\common\vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pointVertexShader.glsl" />
+    <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pointFragmentShader.glsl" />
+    <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pickingPointVertexShader.glsl" />
+    <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pickingPointFragmentShader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0623DC99-2EA8-3279-BC13-586EA840A600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{98BF9A0C-C6FC-3FF2-B260-D28970986F44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{7314127B-D40D-39FD-8AD0-57089D2F3D02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
