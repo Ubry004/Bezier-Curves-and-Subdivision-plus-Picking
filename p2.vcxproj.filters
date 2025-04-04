@@ -51,6 +51,10 @@
     <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pointFragmentShader.glsl" />
     <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pickingPointVertexShader.glsl" />
     <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pickingPointFragmentShader.glsl" />
+    <None Include="TessVertexShader.glsl" />
+    <None Include="TessControlShader.glsl" />
+    <None Include="TessEvalShader.glsl" />
+    <None Include="TessFragmentShader.glsl" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">

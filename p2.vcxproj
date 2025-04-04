@@ -117,7 +117,8 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/kamro/Desktop/cg_project_2/cg_project_2/build/$(Configuration)/p2.exe C:/Users/kamro/Desktop/cg_project_2/cg_project_2/source/
 if %errorlevel% neq 0 goto :cmEnd
@@ -175,7 +176,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/kamro/Desktop/cg_project_2/cg_project_2/build/$(Configuration)/p2.exe C:/Users/kamro/Desktop/cg_project_2/cg_project_2/source/
 if %errorlevel% neq 0 goto :cmEnd
@@ -233,7 +235,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/kamro/Desktop/cg_project_2/cg_project_2/build/$(Configuration)/p2.exe C:/Users/kamro/Desktop/cg_project_2/cg_project_2/source/
 if %errorlevel% neq 0 goto :cmEnd
@@ -290,7 +293,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/kamro/Desktop/cg_project_2/cg_project_2/build/$(Configuration)/p2.exe C:/Users/kamro/Desktop/cg_project_2/cg_project_2/source/
 if %errorlevel% neq 0 goto :cmEnd
@@ -394,6 +398,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </None>
     <None Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\source\pickingPointFragmentShader.glsl">
     </None>
+    <None Include="TessControlShader.glsl" />
+    <None Include="TessEvalShader.glsl" />
+    <None Include="TessFragmentShader.glsl" />
+    <None Include="TessVertexShader.glsl" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\kamro\Desktop\cg_project_2\cg_project_2\build\ZERO_CHECK.vcxproj">
