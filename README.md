@@ -3,6 +3,8 @@ Press 2 to draw the Bezier curve between the points.
 
 Pick points by mousing over them and clicking mouse 1. You can also drag them.
 
+![](https://github.com/Bezier-Curves-and-Subdivision-plus-Picking/2025-09-0919-34-54-ezgif.com-video-to-gif-converter.gif)
+
 ------------------------------------------------------------------------------------
 
 When the control points lie exactly on a circle both methods produce curves that
