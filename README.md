@@ -5,7 +5,7 @@ Pick points by mousing over them and clicking mouse 1. You can also drag them.
 
 # Demo
 Note that the low framerate is only to conserve space and due to limitations with ezgif(.)com
-![hippo](https://github.com/Bezier-Curves-and-Subdivision-plus-Picking/DEMO.gif)
+![til](https://github.com/Bezier-Curves-and-Subdivision-plus-Picking/DEMO.gif)
 
 ------------------------------------------------------------------------------------
 
